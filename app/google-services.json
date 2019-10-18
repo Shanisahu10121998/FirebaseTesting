@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358431995367",
+    "firebase_url": "https://fir-testing-487bb.firebaseio.com",
+    "project_id": "fir-testing-487bb",
+    "storage_bucket": "fir-testing-487bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358431995367:android:711552ce951863cc88b942",
+        "android_client_info": {
+          "package_name": "shani.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358431995367-spl9b4oc363uoi02c7kmqne14krf4q48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDLLhzoBONTLWeW1ceFdsMi77YGq2FCoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358431995367-spl9b4oc363uoi02c7kmqne14krf4q48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
